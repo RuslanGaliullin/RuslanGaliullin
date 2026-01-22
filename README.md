@@ -16,7 +16,9 @@
 
 ### 💡 About Me
 
-AI engineer passionate about building intelligent systems that solve real-world problems. Currently pioneering voice assistants and LLM agents for retail, with a strong background in backend development and distributed systems.
+Software Engineer with experience at **Yandex** and in **High-Frequency Trading**, building high-load distributed systems and low-latency infrastructure. I've taken **technical ownership** of product streams, covering the **full development cycle**: from shaping product requirements and system design to setting up automated testing, CI/CD, and production monitoring. Strong background in **C++ microservices** and system optimization.
+
+Beyond backend engineering, I led the integration of **LLM Voice Agents** into retail workflows, launching the country's first voice assistant for hands-free ordering. I enjoy complex algorithms and am deepening my expertise in Distributed Systems at **YSDA** (Yandex School of Data Analysis).
 
 ---
 
